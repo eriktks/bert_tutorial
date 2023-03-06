@@ -1,6 +1,6 @@
 # Bert tutorial
 
-Tutorial covering the use of the [Bert model](https://en.wikipedia.org/wiki/BERT_(language_model)) for natural language processing. See the [tutorial notebook](https://github.com/eriktks/bert_tutorial/blob/master/bert_tutorial.ipynb)
+Tutorial covering the use of the [Bert model](https://en.wikipedia.org/wiki/BERT_(language_model)) for natural language processing. See the [tutorial notebook](https://github.com/eriktks/bert_tutorial/blob/main/bert_tutorial.ipynb)
 
 ## Installation
 
