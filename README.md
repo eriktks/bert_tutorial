@@ -9,7 +9,6 @@ Tutorial covering the use of the [Bert model](https://en.wikipedia.org/wiki/BERT
 3. `python3 -m venv --prompt "bert_tutorial" venv3`
 4. `source venv3/bin/activate`
 5. `pip install -r requirements.txt`
-6. `pip install .`
 
 ## Usage
 
