@@ -7,7 +7,7 @@ Tutorial covering the use of the [Bert model](https://en.wikipedia.org/wiki/BERT
 1. `git clone https://github.com/eriktks/bert_tutorial.git`
 2. `cd bert_tutorial`
 3. `python -m venv --prompt "bert_tutorial" venv3`
-4. `source venv3/bin/activate` (skip if it generates error messages)
+4. `source venv3/bin/activate`
 5. `pip install -r requirements.txt`
 
 Please skip command 4 if it generates error messages
@@ -16,7 +16,7 @@ Please skip command 4 if it generates error messages
 ## Usage
 
 1. `cd bert_tutorial`
-2. `source venv3/bin/activate` (skip if it generates error messages)
+2. `source venv3/bin/activate`
 3. `jupyter lab`
 
 Please skip command 2 if it generates error messages
